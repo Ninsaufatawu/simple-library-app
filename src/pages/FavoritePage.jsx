@@ -1,7 +1,10 @@
+import { Navigation } from "../components/Navigation"
 
 
 export const FavoritePage = () => {
   return (
-    <div>FavoritePage</div>
+    <div>
+        <Navigation/>
+    </div>
   )
 }

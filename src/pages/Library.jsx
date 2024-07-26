@@ -1,7 +1,8 @@
+import { Navigation } from "../components/Navigation"
 
 
 export const Library = () => {
   return (
-    <div>Library</div>
+    <div><Navigation/></div>
   )
 }

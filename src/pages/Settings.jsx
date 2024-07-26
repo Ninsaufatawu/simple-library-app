@@ -1,6 +1,8 @@
+import { Navigation } from "../components/Navigation"
+
 
 export const Settings = () => {
   return (
-    <div>Settings</div>
+    <div><Navigation/></div>
   )
 }

@@ -11,7 +11,7 @@ export const Home = () => {
     <Router>
         <Routes>
             <Route path="/" element={<HomePage />} />
-            <Route path="/categoty" element={<CategoryPage />} />
+            <Route path="/category" element={<CategoryPage />} />
             <Route path="/favorite" element={<FavoritePage/>}/>
             <Route path="/library" element={<Library/>}/>
             <Route path="/settings" element={<Settings/>}/>
